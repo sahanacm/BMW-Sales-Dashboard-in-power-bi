@@ -82,6 +82,6 @@ Strategic decision-making for marketing and distribution
 Product pricing optimization
 
 📌 Screenshots
-Dashboard View :
+Dashboard View : https://github.com/sahanacm/BMW-Sales-Dashboard-in-power-bi/blob/main/dashboard.png
 
 All Cars - BMW 3 Series : https://github.com/sahanacm/BMW-Sales-Dashboard-in-power-bi/blob/main/all%20cars.png
